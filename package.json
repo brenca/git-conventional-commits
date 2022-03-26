@@ -1,6 +1,6 @@
 {
-  "name": "git-conventional-commits",
-  "version": "1.2.0",
+  "name": "git-cc-commit-version",
+  "version": "1.2.1",
   "description": "git conventional commits util",
   "licence": "MIT",
   "main": "cli.js",
@@ -8,7 +8,7 @@
     "start": "./cli.js",
     "test": "jest"
   },
-  "repository": "github:qoomon/git-conventional-commits",
+  "repository": "github:brenca/git-conventional-commits",
   "author": "",
   "license": "ISC",
   "dependencies": {
